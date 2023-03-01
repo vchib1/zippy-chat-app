@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1069204678303",
+    "project_id": "zippy-chat-app",
+    "storage_bucket": "zippy-chat-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069204678303:android:857c23222413e36b3aa4aa",
+        "android_client_info": {
+          "package_name": "com.vchib.zippychatapp.zippchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1069204678303-jpbm7ohuuhsqrr3ub094dlelfp7hjgrc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4wHnAcdVzBPBSXNr3iW8X-P5W4IJc-k4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1069204678303-jpbm7ohuuhsqrr3ub094dlelfp7hjgrc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
