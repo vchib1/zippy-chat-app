@@ -1,7 +1,7 @@
 
 # Zippy Chat
 
-A Realtime Chat App created using Flutter and Firebase, with many functionalities like Changing/Updating Name, Status, Profile Picture and Online/Offline Status. User can chat directly with another user. Implemented Null Safety and Exception Handling. For state management Provider is used. and It is created by following MVC (Model View Controller) design pattern.
+A Realtime Chat App created using Flutter and Firebase, with basic chat app functionalities like Changing/Updating Name, Status, Profile Picture and Online/Offline Status. User can chat directly with another user. Implemented Null Safety and Exception Handling. For state management, Provider is used. and It is created by following MVC (Model View Controller) design pattern.
 
 
 ## Packages used
